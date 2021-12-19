@@ -16,6 +16,12 @@ public class practica_SantiagoOspina {
 	public static void printThree() {
 		System.out.println("Hello World");
 	}
+	
+	
+	public static void printFour() {
+		System.out.println("Hello World");
+	}
+
 
 
 	
